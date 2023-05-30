@@ -1,4 +1,4 @@
-# practice
+# TimerApp
 
 A new Flutter project.
 
